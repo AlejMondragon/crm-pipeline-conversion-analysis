@@ -1,0 +1,17 @@
+# Raw data: download from Kaggle (see README)
+data/raw/*
+data/clean/*
+!data/raw/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
